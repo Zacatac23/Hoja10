@@ -1,0 +1,14 @@
+Mixco Antigua 30
+Antigua Escuintla 25
+Escuintla SantaLucia 15
+SantaLucia Retalhuleu 10
+Mixco Guatemala 5
+Guatemala VillaNueva 10
+VillaNueva Escuintla 20
+Antigua Chimaltenango 20
+Chimaltenango Tecpan 30
+Tecpan Solola 25
+Solola Quetzaltenango 50
+Quetzaltenango SanMarcos 35
+SanMarcos Coatepeque 20
+Coatepeque Mazatenango 25
